@@ -18,16 +18,19 @@
 </p>
 
 <!-- GitHub Statistics -->
-
+<p align="center"> 
 <a href="https://github.com/RobinSen2217/RobinSen2217">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=robinsen2217&layout=compact&theme=tokyonight" alt="RobinSen2217's stats" />
 </a>
+</p>
 
 <br> <p>                                                                                </p>
 
+<p align="center">
 <a href="https://github.com/RobinSen2217/RobinSen2217">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=robinsen2217&show_icons=true&include_all_commits=true&theme=tokyonight" alt="RobinSen2217's stats" /> 
 </a>
+</p>
 
 *************
 
@@ -44,7 +47,6 @@
 </details> -->
 
 
-************
 
 ### 🔧 &nbsp; Technologies & Tools...
 <p align="center">
